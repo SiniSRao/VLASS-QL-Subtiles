@@ -9,5 +9,4 @@ The .csv files are updated every Sunday to show the most recent list of subtiles
 > [!NOTE] 
 > The weekly updated csv files will be uploaded to the master branch (**not** the main branch).
 
->[!UPDATE]
->I am no longer running the web-scraping algorithm every week since the survey is complete.
+**UPDATE:** I am no longer running the web-scraping algorithm every week since the survey is complete.
